@@ -1,0 +1,7 @@
+Faça um programa que calcula o valor de uma viagem, você terá 3 variáveis. Sendo elas:
+
+1 - Preço do combústivel;
+2 - Gasto médio de combústivel do carro por KM;
+3 - Distância em KM da viagem;
+
+Imprima no console o valor que será gasto de para realizar esta viagem.
